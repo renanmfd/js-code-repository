@@ -7,7 +7,7 @@ URL: {
     /**
      * Add a query value(s) and key(s) to some url.
      * 
-     * @mathod addQuery
+     * @method addQuery
      * @param {String} url - String containing the hole url
      * @param {String} name - Name of the parameter to add
      * @param {String} value - Value of the parameter to add
